@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Academics",
+        "childern":[
+            {
+                "title":"Student Subject",
+                "icon": "",
+                "path":"/"
+            },
+            {
+                "title":"Time Table",
+                "icon":"",
+                "path":"/"
+            },
+            {
+                "title":"Attendence Detail",
+                "icon":"",
+                "path":"/"
+            }
+        ]
+    },
+    {
+        "title": "Finance",
+        "childern":[
+            {
+                "title":"Fee Paid",
+                "icon":"",
+                "path":"/"
+            },
+            {
+                "title":"Due Fee",
+                "icon":"",
+                "path":"/"
+            }
+        ]
+    },
+    {
+        "title":"Examination",
+        "childern":[
+            {
+                "title":"Recent Internal Marks",
+                "icon":"",
+                "path":"/"
+            },
+            {
+                "title":"Current Semester Result",
+                "icon":"",
+                "path":"/"
+            },
+            {
+                "title":"Current Semester Result",
+                "icon":"",
+                "path":"/"
+            }
+        ]
+    }
+]

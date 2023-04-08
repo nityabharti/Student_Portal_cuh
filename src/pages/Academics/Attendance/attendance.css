@@ -1,0 +1,62 @@
+.head{
+width: 100%;
+}
+
+.attendance_table{
+  width: 90%;
+  margin-left: 5%
+}
+h3{
+    border: 1px solid rgb(70, 73, 151);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    text-align: center  ;
+    background-color: rgb(70, 73, 151);
+}
+
+.table_content {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    display: flex;
+   justify-content: center;
+    flex-direction: column;
+  }
+
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+.total_hr{
+    text-align: end;
+}
+
+.table_content{
+    align-items: center;
+}
+
+p.note{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 1000;
+  margin-top: 30px;
+  color: red;
+  margin-left: 5%;
+}
+
+p.calculate{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 50px;
+  
+
+}

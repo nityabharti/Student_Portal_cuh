@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "code": "BT CS 601A",
+        "name":"Principal of Operating Systems",
+        "marks": 42,
+        "total": 50,
+        "sem":1
+
+    },
+    {
+        "id": 2,
+        "code": "BT CS 602A",
+        "name":"Complier Design",
+        "marks": 49,
+        "total": 50,
+        "sem":1
+    },
+    {
+        "id": 3,
+        "code": "BT CS 603A",
+        "name":"Software Engineering",
+        "marks": 45,
+        "total": 50,
+        "sem":2
+    },
+    {
+        "id": 4,
+        "code": "BT CS 604A",
+        "name":"Data Warehouse",
+        "marks": 38,
+        "total": 50,
+        "sem":2
+    },
+    {
+        "id": 5,
+        "code": "BT CS 633",
+        "name":"Distributed Systems",
+        "marks": 41,
+        "total": 50,
+        "sem":1
+    },
+    {
+        "id": 6,
+        "code": "BT CS 622A",
+        "name":"Unix and Linux Programming",
+        "marks": 48,
+        "total": 50,
+        "sem":1
+    },
+    {
+        "id": 7,
+        "code": "BT CS 607A",
+        "name":"Seminar",
+        "marks": 42,
+        "total": 50,
+        "sem":2
+    }
+]

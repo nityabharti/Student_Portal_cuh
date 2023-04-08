@@ -1,0 +1,146 @@
+.home_profile {
+  margin: 10px;
+  background-color: royalblue;
+  padding: 18px 15px;
+  border: 1px solid white;
+  border-radius: 20px;
+  color: white;
+}
+.home_cards {
+  display: flex;
+  justify-content: space-between;
+  gap: 1px;
+  margin-bottom: 20px;
+}
+/* first card */
+.home_opinion {
+  border: none;
+  padding: auto;
+  border-radius: 20px;
+  width: 300px;
+  height: 40vh;
+  text-align: center;
+  background: linear-gradient(
+    135deg,
+    rgb(106, 171, 216) 0%,
+    rgb(113, 117, 212) 24%,
+    rgb(60, 47, 204) 49%,
+    rgb(13, 86, 218) 75%,
+    rgb(64, 26, 113) 100%
+  );
+  color: white;
+}
+.home_opinion h2 {
+  text-align: center;
+}
+
+.home_opinion_button {
+  font-size: 17px;
+
+  float: left;
+  font-weight: bold;
+  background: white;
+  padding: 8px;
+  margin-top: 50px;
+  margin-left: 90px;
+  width: 130px;
+  color: black;
+  border: 1px solid black;
+  transition: 0.5s all;
+  cursor: pointer;
+}
+.home_opinion_button:hover {
+  transform: scale(0.9);
+  background: initial;
+  border: 1px solid white;
+  color: white;
+}
+
+/* second card */
+.home_graph {
+  display: inline;
+  border: none;
+  padding: 5px;
+  border-radius: 20px;
+  background: linear-gradient(
+    135deg,
+    rgb(106, 171, 216) 0%,
+    rgb(113, 117, 212) 24%,
+    rgb(60, 47, 204) 49%,
+    rgb(13, 86, 218) 75%,
+    rgb(64, 26, 113) 100%
+  );
+  color: white;
+}
+.home_graph button {
+  font-size: 17px;
+
+  float: left;
+  font-weight: bold;
+  background: white;
+  padding: 8px;
+  margin-top: 65px;
+  margin-left: 120px;
+  width: 130px;
+  color: black;
+  border: 1px solid black;
+  transition: 0.5s all;
+  cursor: pointer;
+}
+.home_graph button:hover {
+  transform: scale(0.9);
+  background: initial;
+  border: 1px solid white;
+  color: white;
+}
+
+.home_graph h2 {
+  text-align: center;
+  margin: 20px;
+}
+.home_graph p {
+  text-align: center;
+}
+
+/* third card */
+.home_paper {
+  border: none;
+  padding: 10px;
+  border-radius: 20px;
+  width: 300px;
+  text-align: center;
+  background: linear-gradient(
+    135deg,
+    rgb(106, 171, 216) 0%,
+    rgb(113, 117, 212) 24%,
+    rgb(60, 47, 204) 49%,
+    rgb(13, 86, 218) 75%,
+    rgb(64, 26, 113) 100%
+  );
+  color: white;
+}
+.home_paper h2 {
+  text-align: center;
+  margin-top: auto;
+}
+.home_paper button {
+  font-size: 17px;
+
+  float: left;
+  font-weight: bold;
+  background: white;
+  padding: 8px;
+  margin-top: 78px;
+  margin-left: 90px;
+  width: 130px;
+  color: black;
+  border: 1px solid black;
+  transition: 0.5s all;
+  cursor: pointer;
+}
+.home_paper button:hover {
+  transform: scale(0.9);
+  background: initial;
+  border: 1px solid white;
+  color: white;
+}

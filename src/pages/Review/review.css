@@ -1,0 +1,16 @@
+.review_feedback{
+  border: 2px solid #ece4e4;
+  padding: 10px 10px 10px 10px ;
+  background-color: #ece4e4;
+  margin-top: 3%;
+}
+
+hr{
+  font-weight: bolder;
+}
+.list{
+  font-size: large;
+  font-weight: 550;
+  font-family: 'Courier New', Courier, monospace;
+  padding-top: 20px;
+}

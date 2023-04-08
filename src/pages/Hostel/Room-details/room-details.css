@@ -1,0 +1,66 @@
+/* .room-details table {
+  border: 2px solid black;
+  width: 800px;
+  height: 200px;
+}
+
+.room-details th {
+  border-bottom: 2px solid black;
+  color: rgb(14, 225, 240);
+  font-weight: bold;
+}
+
+.room-details tr {
+  font-weight: bold;
+}
+
+.room-details .print-btn {
+  background-color: skyblue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 7px;
+  font-weight: 800;
+  font-size: 15px;
+  margin: 10px;
+  cursor: pointer;
+} */
+
+.table {
+  padding: 20px;
+}
+.room_table {
+  font-size: 20px;
+  margin: 10px;
+}
+.room_table td {
+  padding: 20px;
+}
+.hostel_link {
+  display: flex;
+  margin-left: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hostel_button {
+  font-size: 17px;
+  margin: 9px;
+  float: left;
+  font-weight: bold;
+  background: white;
+  padding: 8px;
+
+  width: 130px;
+  color: black;
+  border: 1px solid black;
+  transition: 0.5s all;
+  cursor: pointer;
+}
+.hostel_button:hover {
+  color: white;
+  background: black;
+}
+.hostel_link .hostel_h3 {
+  width: 70%;
+}

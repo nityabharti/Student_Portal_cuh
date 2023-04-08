@@ -1,0 +1,82 @@
+[
+
+    {
+        "id":1,
+        "name":"Principal of Operating Systems",
+        "code":"BT CS 601A",
+        "faculty": "Dr. Benay Kumar Ray"
+    },
+    
+    {
+        "id":2,
+        "name":"Complier Design",
+        "code":"BT CS 602A",
+        "faculty": "Dr. Sangeeta Lamba"
+    },
+    
+    {
+        "id":3,
+        "name":"Software Engineering",
+        "code":"BT CS 603A",
+        "faculty": "Dr. Hemlata"
+    },
+    
+    {
+        "id":4,
+        "name":"Data warehousing and Data Mining",
+        "code":"BT CS 604A",
+        "faculty": "Dr. Sandeep "
+    },
+    
+    {
+        "id":5,
+        "name":"Unix and Linux Programming ",
+        "code":"BT CS 622",
+        "faculty": "Dr. Nitin Goyal"
+    },
+    
+    {
+        "id":6,
+        "name":"Wireless Computing ",
+        "code":"BT CS 632",
+        "faculty": "Dr. Sandeep Sikriwal"
+    },
+    {
+        "id":7,
+        "name":"Distributed Systems (Elective)",
+        "code":"BT CS 633A",
+        "faculty": "Dr. Sushil Kumar"
+    },
+    
+    {
+        "id":8,
+        "name":"Principal of Operating Systems Lab",
+        "code":"BT CS 605A",
+        "faculty": "Dr. Benay Kumar Ray"
+    },
+    
+    {
+        "id":9,
+        "name":"Software Engineering Lab",
+        "code":"BT CS 606A",
+        "faculty": "Dr. Sandeep "
+    },
+    {
+        "id":10,
+        "name":"Unix and Linux Programming Lab",
+        "code":"BT CS 627A",
+        "faculty": "Dr. Nitin Goyal"
+    },
+    {
+        "id":11,
+        "name":"Seminar",
+        "code":"BT CS 607A",
+        "faculty": "Dr. Anant Rajee Bara"
+    },
+    {
+        "id":12,
+        "name":"Internship",
+        "code":"BT CS 632A",
+        "faculty": "Dr. Vishal Passricha"
+    }
+]

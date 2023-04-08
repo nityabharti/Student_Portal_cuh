@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.auth-form-container {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 20px 10px solid black;
+}
+.registor-form {
+  display: flex;
+  flex-direction: column;
+}
+.registor_button {
+  border: none;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  color: blue;
+}
+select {
+  margin: 0.2rem 0;
+  padding: 1rem;
+  border: none;
+  border-radius: 10px;
+}

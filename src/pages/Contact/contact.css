@@ -1,0 +1,105 @@
+.page1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../../assests/img2.jpg);
+  background-size: cover;
+  /* border: 2px solid red; */
+  width: 100%;
+  height: 89vh;
+}
+.logo1 {
+  width: 200px;
+  height: 200px;
+  margin-top: 5px;
+  margin-bottom: 100px;
+}
+
+/* footer */
+footer {
+  background-color: rgba(53, 56, 58, 0.589);
+  width: 100%;
+  height: 350px;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+}
+.footer p {
+  color: white;
+  margin-top: 35px;
+  margin-left: 10px;
+}
+.footer div {
+  /* border: 2px solid red; */
+  width: fit-content;
+  height: fit-content;
+  margin-left: 10px;
+
+  /* position: fixed; */
+  color: rgba(253, 246, 246, 0.685);
+  /* margin-top: 15px; */
+}
+.social-icons {
+  /* position: fixed; */
+  margin-left: 430px;
+
+  /* padding-left:0; */
+  margin-bottom: 0;
+  font-size: 30px;
+  list-style: none;
+  width: fit-content;
+  color: rgba(255, 255, 255, 0.822);
+}
+.social-icons li {
+  display: inline-block;
+  padding-left: 15px;
+}
+/* ul.social-icons li:hover {
+	font-size: 50px;
+  } */
+
+a {
+  color: white;
+}
+
+.fbox1 {
+  display: flex;
+  margin-top: 5px;
+  font-size: 15px;
+  color: white;
+}
+.fbox li {
+  list-style: none;
+}
+.fquick_links {
+  width: 500px;
+  margin-left: 50px;
+  font-size: 17px;
+}
+
+.fquick_links li {
+  padding-top: 10px;
+}
+
+.fquick_links li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  font-size: large;
+}
+.fContact_us {
+  margin-left: 280px;
+  font-size: 17px;
+}
+.fContact_us h2 {
+  margin-left: 90px;
+}
+
+.fContact_us li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  font-size: large;
+}
